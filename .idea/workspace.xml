@@ -28,6 +28,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -48,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604529146455</updated>
       <workItem from="1604529184680" duration="14118000" />
+      <workItem from="1604573107396" duration="734000" />
     </task>
     <servers />
   </component>
