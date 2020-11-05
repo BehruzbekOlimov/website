@@ -11,3 +11,9 @@ header img {
   border-radius: 50%;
   filter: hue-rotate(330deg);
 }
+nav{
+  background: linear-gradient(black, #2f2e2e);
+}
+nav a{
+   font-size: 32px;
+}
